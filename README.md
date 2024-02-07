@@ -1,4 +1,5 @@
-# course-ds-base
+# DVC PROJECTS WITH AUTOMATED/REPRODUCIBLE DATA AND MODEL PIPELINES
+
 
 ## Preparation
 
